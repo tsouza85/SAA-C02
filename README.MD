@@ -12,3 +12,5 @@ Tenho experiência em AWS, então:
 - Estudo os flashcards do Dojo's
 - Estudo os diagramas do Adrian Cantrill (para quem tem memória visual, é uma boa)
 - Reviso as notas do alozano-77
+
+*Farei a prova quando atingir a pontuação de >= 85% em todos os simulados Dojo's*
