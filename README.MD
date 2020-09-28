@@ -23,3 +23,6 @@ Tenho experiência em AWS, então:
 - Reviso as notas do alozano-77
 
 *Farei a prova quando atingir a pontuação de >= 85% em todos os simulados do Jon Bonson*
+
+## Para quem não tem experiência em AWS
+Recomendo que faça o curso completo do Adrian e depois faça os simulados
