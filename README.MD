@@ -12,7 +12,7 @@ Há varios cursos bons além do Adrian, como:
 -  Stephane Maarek - [Ultimate AWS Certified Solutions Architect Associate 2020](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/ "Ultimate AWS Certified Solutions Architect Associate 2020")
 - Neal Davis - [AWS Certified Solutions Architect Associate](https://digitalcloud.training/aws-certified-solutions-architect-associate-hands-on-course-saa-c02/http:// "AWS Certified Solutions Architect Associate")
 
-Os simulados do Neal Davis são tão bons quanto do Jon Bonson.
+Os simulados do Neal Davis são tão bons quanto do Jon Bonson.  
 Prefiro o curso do Adrian por ter melhores diagramas, mas isso é preferência pessoal...
 
 ## Método
