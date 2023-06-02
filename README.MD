@@ -16,7 +16,7 @@ Os simulados do Neal Davis são tão bons quanto do Jon Bonson.
 Prefiro o curso do Adrian por ter melhores diagramas, mas isso é preferência pessoal...
 
 ## Método
-Para quem tem experiência em AWS:
+##Para quem tem experiência em AWS:
 - Faça os simulados do Jon Bonson em review mode, estude as questões que errou (o site registra histórico/estatística de cada simulado realizado)
 - Memorize os flashcards do Jon Bonson e do Adrian Cantrill
 - Estude os diagramas do Adrian Cantrill (para quem tem memória visual, é uma boa)
